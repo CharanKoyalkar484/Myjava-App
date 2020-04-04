@@ -7,7 +7,7 @@ pipeline
     {
       steps
       {
-       git 'https://github.com/CharanKoyalkar484/MyApp-Java-project.git'
+       git 'https://github.com/CharanKoyalkar484/Myjava-App.git'
       }
     }
     stage('continuousBuild')
